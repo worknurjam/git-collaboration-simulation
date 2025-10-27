@@ -1,4 +1,6 @@
 # git-collaboration-simulation
-Danu Renmi Wijaya
-satria yoga pratama
-nur jamilah
+# studen list -1
+- Danu Renmi Wijaya
+- satria yoga pratama
+- nur jamilah
+- test satria 1
